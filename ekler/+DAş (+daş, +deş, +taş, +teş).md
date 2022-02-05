@@ -4,10 +4,11 @@ Genellikle ortaklık, beraberlik, benzerlik ve eşitlik anlamını taşıyan adl
 
 ## Çağları
 
-- [x] [Eski Türkçe] 7-12. yy
-- [x] [Orta Türkçe]
-- [x] [Yeni Türkçe]
-- [x] [Çağdaş Türkçe]
+- [ ] İlk Türkçe
+- [ ] Ana Türkçe 6. yy öncesi
+- [x] [Eski Türkçe] 6-12. yy
+- [x] [Orta Türkçe] 12-20. yy
+- [x] [Yeni Türkçe - Çağdaş Türkçe] 20-21. yy
 
 
 ## Eski Türkçe
@@ -20,5 +21,4 @@ adaş, arkadaş, dost, eş < ad
 
 [Eski Türkçe]: <https://github.com>
 [Orta Türkçe]: <https://github.com>
-[Yeni Türkçe]: <https://github.com>
-[Çağdaş Türkçe]: <https://github.com>
+[Yeni Türkçe - Çağdaş Türkçe]: <https://github.com>
