@@ -22,6 +22,10 @@ Genellikle ortaklık, beraberlik, benzerlik ve eşitlik anlamını taşıyan adl
 | **kagadaş ~ kādaş** | akraba, hısım | karın | [Eski Uygur Türkçesi] | [EUTS], [M] |
 | **kagdaş** | akraba | karın | [Eski Türkçe] | [ETG] |
 
+## Kısaltmalar {#kısaltma}
+
+**ETG**: Eski Türkçenin Grameri, A. Von Gabain, çev. Mehmet AKALIN, TDK Yayınları, Ankara, 2000
+
 
 [Eski Türkçe]: <#>
 [Orta Türkçe]: <#>
