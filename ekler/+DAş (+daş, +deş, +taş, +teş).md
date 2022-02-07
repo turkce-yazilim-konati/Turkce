@@ -28,7 +28,21 @@ Genellikle ortaklık, beraberlik, benzerlik ve eşitlik anlamını taşıyan adl
 
 ## Orta Türkçe
 
-+Daş eki, eşitlik, ortaklık ve paylaşmaya dayalı sözcükler türetir. Karahanlı Türkçesinde işlektir.
++DAş eki, eşitlik, ortaklık ve paylaşmaya dayalı sözcükler türetir. Karahanlı Türkçesinde işlektir. Karahanlı Türkçesinde pek işlektir.
+
+| Sözcük | Anlam | Kök | Dil | Kaynak |
+|--------|-------|-----|-----|--------|
+| **adaş**~**adhaş** | arkadaş, dost | | [Karahanlı Türkçesi] | [DLT] [^dlt] |
+| **erdeş** | arkadaş | | [Karahanlı Türkçesi] | [KB] [^kb] |
+| **kaŋdaş** | babaları ortak, anaları ayrı erkek kardaşlar | kaŋ | [Karahanlı Türkçesi] | [Clauson 1972] [^clauson-72]<br>[DLT] [^dlt] |
+| **karındaş** | | | [Karahanlı Türkçesi] | [KB] [^kb]<br>[DLT] [^dlt]<br>[TİKT] [^tikt] |
+| **kirdeş** | Bir avluda birlikte oturan komşu; Moğolcada ger "ev" demektir. | < * ker veya < * kir | [Karahanlı Türkçesi] | [Clauson 1972] [^clauson-72]<br>[DLT] [^dlt] |
+| **koldaş** | dost, arkadaş | kol | [Karahanlı Türkçesi] | [Clauson 1972] [^clauson-72]<br>[KB] [^kb]<br>[DLT] [^dlt]<br>[TİKT] [^tikt]<br>[Gülensoy 2007a] [^gulensoy-2007a] |
+| **kovdaş** | obur | kov | [Karahanlı Türkçesi] | [Clauson 1972] [^clauson-72]<br>[KB] [^kb] |
+| **köngüldeş** | gönül arkadaşı | köŋül | [Karahanlı Türkçesi] | [Clauson 1972] [^clauson-72]<br>[Gülensoy 2007a] [^gulensoy-2007a]<br>[DLT] [^dlt] |
+| **tudaş~tüdeş** | eş, birbirine benzeyen, aynı renkte olan, saçları aynı renkte olan; tüdeş neŋ, bu at ne tülüg | | [Karahanlı Türkçesi] | [Clauson 1972] [^clauson-72]<br>[KB] [^kb] |
+| **yaşdaş** | yaşıt, aynı yaşta olan | | [Karahanlı Türkçesi] | [TİKT] [^tikt] |
+
 
 [^clauson-72]:
     Clauson 1972: An Etymological Dictionary of Pre-Thirteenth Century Turkish | Sir Gerard CLAUSON | 1972 |
