@@ -25,9 +25,7 @@ Genellikle ortaklık, beraberlik, benzerlik ve eşitlik anlamını taşıyan adl
 ## Kısaltmalar
 
 [^ETG]: 
-    | KISA ADI | ADI | YAZAN | ÇEVİREN | YAYIMCI | BASIM YILI |
-    |------------|-----|-------|---------|---------|------------|
-    | ETG |Eski Türkçenin Grameri | Annemarie von Gabain | Mehmet AKALIN | TDK Yayınları, Ankara | 2000 |
+    ETG: Eski Türkçenin Grameri | Annemarie von Gabain | Mehmet AKALIN | TDK Yayınları, Ankara | 2000 |
 
 
 [Eski Türkçe]: <#>
