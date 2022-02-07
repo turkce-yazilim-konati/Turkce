@@ -17,14 +17,17 @@ Genellikle ortaklık, beraberlik, benzerlik ve eşitlik anlamını taşıyan adl
 | Sözcük | Anlam | Kök | Dil | Kaynak |
 |--------|-------|-----|-----|--------|
 | **adaş** | adaş, arkadaş, dost, eş | ad | [Eski Uygur Türkçesi] | Clauson 1972, [EUTSV] |
-| **kadaş** | Erkek kardeş, arkadaş, akraba | ka | [Eski Uygur Türkçesi] | Clauson 1972, [ETG] |
-| **karındaş ~ karundaş ~ karandaş** | Erkek kardeş; genellikle ikileme şeklinde -kız karındaş- kullanılır | karın | [Eski Uygur Türkçesi] | Clauson 1972, [ETG] |
+| **kadaş** | Erkek kardeş, arkadaş, akraba | ka | [Eski Uygur Türkçesi] | Clauson 1972, [ETG][^ETG] |
+| **karındaş ~ karundaş ~ karandaş** | Erkek kardeş; genellikle ikileme şeklinde -kız karındaş- kullanılır | karın | [Eski Uygur Türkçesi] | Clauson 1972, [ETG][^ETG] |
 | **kagadaş ~ kādaş** | akraba, hısım | karın | [Eski Uygur Türkçesi] | [EUTS], [M] |
-| **kagdaş** | akraba | karın | [Eski Türkçe] | [ETG] |
+| **kagdaş** | akraba | karın | [Eski Türkçe] | [ETG][^ETG] |
 
-## Kısaltmalar {#kisaltma}
+## Kısaltmalar
 
-**ETG**: Eski Türkçenin Grameri, A. Von Gabain, çev. Mehmet AKALIN, TDK Yayınları, Ankara, 2000
+[^ETG]: 
+    | KISA ADI | ADI | YAZAN | ÇEVİREN | YAYIMCI | BASIM YILI |
+    |------------|-----|-------|---------|---------|------------|
+    | ETG |Eski Türkçenin Grameri | Annemarie von Gabain | Mehmet AKALIN | TDK Yayınları, Ankara | 2000 |
 
 
 [Eski Türkçe]: <#>
@@ -33,7 +36,7 @@ Genellikle ortaklık, beraberlik, benzerlik ve eşitlik anlamını taşıyan adl
 [Eski Uygur Türkçesi]: <#>
 [Clauson 1972, EUTSV]: <#>
 
-[ETG]: <#kisaltma> "Eski Türkçenin Grameri, A. Von Gabain, çev. Mehmet AKALIN, TDK Yayınları, Ankara, 2000"
+[ETG]: # "Eski Türkçenin Grameri, A. Von Gabain, çev. Mehmet AKALIN, TDK Yayınları, Ankara, 2000"
 [EUTS]: # "Eski Uygur Türkçesi Sözlüğü, Ahmet CAFEROĞLU, 3. Baskı, Enderun Kitabevi, İstanbul, 1993" 
 [EUTSV]: # "Eski Uygur Türkçesi Söz Varlığı, İsmail DOĞAN, Zerrin USTA, Altınpost Yayınları, Ankara, 2014"
 [M]: # "Şinasi TEKİN, Maytrısimit, Burkancıların Mehdîsi Maitreya ile Buluşma Uygurca İptidaî Bir Dram, Uygurca Metinler II., Atatürk Üniversitesi Yayınları, Sevinç Matbaası, Ankara, 1976"
