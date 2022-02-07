@@ -17,14 +17,14 @@ Genellikle ortaklık, beraberlik, benzerlik ve eşitlik anlamını taşıyan adl
 | Sözcük | Anlam | Kök | Dil | Kaynak |
 |--------|-------|-----|-----|--------|
 | **adaş** | adaş, arkadaş, dost, eş | ad | [Eski Uygur Türkçesi] | Clauson 1972, [EUTSV] |
-| **kadaş** | Erkek kardeş, arkadaş, akraba | ka | [Eski Uygur Türkçesi] | Clauson 1972, [ETG] [^ETG] |
-| **karındaş ~ karundaş ~ karandaş** | Erkek kardeş; genellikle ikileme şeklinde -kız karındaş- kullanılır | karın | [Eski Uygur Türkçesi] | Clauson 1972, [ETG] [^ETG] |
+| **kadaş** | Erkek kardeş, arkadaş, akraba | ka | [Eski Uygur Türkçesi] | Clauson 1972, [ETG] [^etg] |
+| **karındaş ~ karundaş ~ karandaş** | Erkek kardeş; genellikle ikileme şeklinde -kız karındaş- kullanılır | karın | [Eski Uygur Türkçesi] | Clauson 1972, [ETG] [^etg] |
 | **kagadaş ~ kādaş** | akraba, hısım | karın | [Eski Uygur Türkçesi] | [EUTS], [M] |
-| **kagdaş** | akraba | karın | [Eski Türkçe] | [ETG] [^ETG] |
+| **kagdaş** | akraba | karın | [Eski Türkçe] | [ETG] [^etg] |
 
 ## Kısaltmalar
 
-[^ETG]: 
+[^etg]: 
     ETG: Eski Türkçenin Grameri | Annemarie von Gabain | Mehmet AKALIN | TDK Yayınları, Ankara | 2000 |
 
 
