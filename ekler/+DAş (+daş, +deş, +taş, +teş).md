@@ -33,6 +33,7 @@ Genellikle ortaklık, beraberlik, benzerlik ve eşitlik anlamını taşıyan adl
 [^m]: 
     EUTS: Maytrısimit, Burkancıların Mehdîsi Maitreya ile Buluşma Uygurca İptidaî Bir Dram, Uygurca Metinler II. | Şinasi TEKİN | Atatürk Üniversitesi Yayınları | Sevinç Matbaası | Ankara, TÜRKİYE | 1976 |  
 
+[Clauson 1972]: # "An Etymological Dictionary of Pre-Thirteenth Century Turkish | Sir Gerard CLAUSON | 1972 |" 
 [ETG]: # "Eski Türkçenin Grameri | Annemarie von Gabain | Çeviren: Mehmet AKALIN | TDK Yayınları | Ankara, TÜRKİYE | 2000 |"
 [EUTS]: # "Eski Uygur Türkçesi Sözlüğü | Ahmet CAFEROĞLU | 3. Baskı | Enderun Kitabevi | İstanbul, TÜRKİYE | 1993 |" 
 [EUTSV]: # "Eski Uygur Türkçesi Söz Varlığı | İsmail DOĞAN, Zerrin USTA | Altınpost Yayınları | Ankara, TÜRKİYE | 2014 |"
