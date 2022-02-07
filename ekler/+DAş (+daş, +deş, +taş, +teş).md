@@ -16,14 +16,14 @@ Genellikle ortaklık, beraberlik, benzerlik ve eşitlik anlamını taşıyan adl
 
 | Sözcük | Anlam | Kök | Dil | Kaynak |
 |--------|-------|-----|-----|--------|
-| **adaş** | adaş, arkadaş, dost, eş | ad | [Eski Uygur Türkçesi] | [Clauson 1972]<br>[EUTSV] [^eutsv] |
-| **kadaş** | Erkek kardeş, arkadaş, akraba | ka | [Eski Uygur Türkçesi] | [Clauson 1972]<br>[ETG] [^etg] |
-| **karındaş ~ karundaş ~ karandaş** | Erkek kardeş; genellikle ikileme şeklinde -kız karındaş- kullanılır | karın | [Eski Uygur Türkçesi] | [Clauson 1972]<br>[ETG] [^etg] |
+| **adaş** | adaş, arkadaş, dost, eş | ad | [Eski Uygur Türkçesi] | [Clauson 1972] [^clauson-72]<br>[EUTSV] [^eutsv] |
+| **kadaş** | Erkek kardeş, arkadaş, akraba | ka | [Eski Uygur Türkçesi] | [Clauson 1972] [^clauson-72]<br>[ETG] [^etg] |
+| **karındaş ~ karundaş ~ karandaş** | Erkek kardeş; genellikle ikileme şeklinde -kız karındaş- kullanılır | karın | [Eski Uygur Türkçesi] | [Clauson 1972] [^clauson-72]<br>[ETG] [^etg] |
 | **kagadaş ~ kādaş** | akraba, hısım | karın | [Eski Uygur Türkçesi] | [EUTS] [^euts], [M] [^m]|
 | **kagdaş** | akraba | karın | [Eski Türkçe] | [ETG] [^etg] |
 
-## Kısaltmalar
-
+[^clauson-72]:
+    Clauson 1972: An Etymological Dictionary of Pre-Thirteenth Century Turkish | Sir Gerard CLAUSON | 1972 |
 [^etg]: 
     ETG: Eski Türkçenin Grameri | Annemarie von Gabain | Çeviren: Mehmet AKALIN | TDK Yayınları | Ankara, TÜRKİYE | 2000 |  
 [^euts]: 
