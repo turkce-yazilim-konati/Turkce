@@ -55,19 +55,80 @@ Genellikle ortaklık, beraberlik, benzerlik ve eşitlik anlamını taşıyan adl
 [^gulensoy-73-74]:
     Gülensoy 1973-1974
 [^m]: 
-    EUTS: Maytrısimit, Burkancıların Mehdîsi Maitreya ile Buluşma Uygurca İptidaî Bir Dram, Uygurca Metinler II. | Şinasi TEKİN | Atatürk Üniversitesi Yayınları | Sevinç Matbaası | Ankara, TÜRKİYE | 1976 |  
+    M: Maytrısimit, Burkancıların Mehdîsi Maitreya ile Buluşma Uygurca İptidaî Bir Dram, Uygurca Metinler II. | Şinasi TEKİN | Atatürk Üniversitesi Yayınları | Sevinç Matbaası | Ankara, TÜRKİYE | 1976 |  
 
+
+[AL]: # "Abuşka Lugâti veya Çağatay Sözlüğü | Besim ATALAY | Yayımlayan: Süleyman TONGUZALP | Ayyıldız Matbaası | Ankara, TÜRKİYE | 1970 |"
+[AH]: # "Atabetü'ül-Hakayık | Reşit Rahmeti ARAT | TDK Yayınları | Ankara, TÜRKİYE | 2006 |"
+[BT I-III-V-XX]: # "Berliner Turfantexte; Hazai, George, Peter Zieme, Fragmente der Uigurischen Version des ''Jin 'gain mit den Meister Fu, (Berliner Turfantexte I), Akademie - Verlag Berlin 1971; Zieme Peter, Vimalakırtinirdesasutra (Berliner Turfantexte XX), Belgium, 2000."
+[CC]: # "Kuman Lehçesi Sözlüğü Codex Cumanicus'un Türkçe Sözlük Dizini | Grönbech | Çeviren: Kemal AYTAÇ | Kültür Bakanlığı Yayınları | Ankara, TÜRKİYE | 1992 |"
 [Clauson 1972]: # "An Etymological Dictionary of Pre-Thirteenth Century Turkish | Sir Gerard CLAUSON | 1972 |"
 [Clauson 1973-1974]: # "Gülensoy 1973-1974"
+[ÇBH]: #
+[DK]: #
+[DLT]: # "Dîvânı Lugât'it-Türk"
+[DTO]: #
+[EATE]: #
+[ED]: #
+[EK]: #
 [ETG]: # "Eski Türkçenin Grameri | Annemarie von Gabain | Çeviren: Mehmet AKALIN | TDK Yayınları | Ankara, TÜRKİYE | 2000 |"
+[ETŞ]: #
+[ETT]: #
+[ETY]: #
 [EUTS]: # "Eski Uygur Türkçesi Sözlüğü | Ahmet CAFEROĞLU | 3. Baskı | Enderun Kitabevi | İstanbul, TÜRKİYE | 1993 |" 
 [EUTSV]: # "Eski Uygur Türkçesi Söz Varlığı | İsmail DOĞAN, Zerrin USTA | Altınpost Yayınları | Ankara, TÜRKİYE | 2014 |"
+[G]: #
+[GT]: #
+[Gülensoy 2007a]: #
+[H]: #
+[HŞ]: #
+[HTG]: #
+[IB]: #
+[İKP]: #
+[İML]: #
+[İMS]: #
+[KB]: #
+[KE]: #
+[KİP]: #
+[KTG]: #
+[KM]: #
+[KÖUKY]: #
+[KT]: #
+[KTS]: #
+[KY]: #
+[LÇ]: #
 [M]: # "Maytrısimit, Burkancıların Mehdîsi Maitreya ile Buluşma Uygurca İptidaî Bir Dram, Uygurca Metinler II. | Şinasi TEKİN | Atatürk Üniversitesi Yayınları | Sevinç Matbaası | Ankara, TÜRKİYE | 1976 |"
+[ME]: #
+[ML]: #
+[MM]: #
+[MN]: #
+[MŞ]: #
+[MT]: #
+[NF]: #
+[OKD]: #
+[OKTS]: #
+[OT]: #
+[OTG]: #
+[OY]: #
+[OYSD]: #
+[S]: #
+[SN]: #
+[ŞSL]: #
+[TaİKT]: #
+[TİKT]: #
+[TS]: #
+[UAY]: #
+[UM]: #
+[UÜH]: #
+[Üİ]: #
+[ÜLT]: #
+[YZ]: #
+
 
 [Eski Türkçe]: <#>
 [Orta Türkçe]: <#>
 [Yeni Türkçe - Çağdaş Türkçe]: <#>
 [Eski Uygur Türkçesi]: <#>
-[Clauson 1972, EUTSV]: <#>
-
+[Karahanlı Türkçesi]: <#>
+[Harezm Türkçesi]: <#>
 
