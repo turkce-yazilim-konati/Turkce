@@ -111,18 +111,18 @@ Genellikle ortaklık, beraberlik, benzerlik ve eşitlik anlamını taşıyan adl
 [OTG]: #
 [OY]: #
 [OYSD]: #
-[S]: #
-[SN]: #
-[ŞSL]: #
-[TaİKT]: #
-[TİKT]: #
-[TS]: #
-[UAY]: #
-[UM]: #
-[UÜH]: #
-[Üİ]: #
-[ÜLT]: #
-[YZ]: #
+[S]: # "Sanglax, A Persian Guide to the Turkish Language by Muhammad Mahdi Xan, Facsimile Text, with an Introduction and Indices | Sir Gerard Clauson | London | 1960 |"
+[SN]: # "Süheyl ü Nev-Bahar (İnceleme-Metin-Sözlük) | Cem DİLÇİN | TDK Yayınları | Ankara, TÜRKİYE | 1991 |"
+[ŞSL]: # "Şeyh Süleyman Efendi-i Buhari Lugât-i Çağatay ve Türkî-i Osmanî (Cildi Evvel) | Durgut HÜSEYİN | Trakya Ünivversitesi Sosyal Bilimler Enstitüsü Türk Dili ve Edebiyatı Anabilim Dalı Yüksek Lisans Tezi | Edirne, TÜRKİYE | 1995 |"
+[TaİKT]: # "Şirvanlı Mahmud Târih-i İbn-i Kesir Tercümesi (Giriş-İnceleme-Metin-Sözlük) | Muhammet YELTEN | TDK Yayınları | Ankara, TÜRKİYE | 1998 |" 
+[TİKT]: # "Türkçe İlk Kur'an Tercümesi (Ryland Nüshası), Karahanlı Türkçesi (Giriş-Metin-Notlar-Dizin) | Aysu ATA | TDK Yayınları | Ankara, TÜRKİYE | 2004 |"
+[TS]: # "Tarama Sözlüğü, C.I-VIII | TDK Yayınları | Ankara, TÜRKİYE | 1995-1996 |"
+[UAY]: # "Uygurca Altun Yaruk | Ceval KAYA | TDK Yayınları | Ankara, TÜRKİYE | 1994 |"
+[UM]: # "Uygurca Metinler II, Maytrısimit, Burkancıların Mehdîsi Maitreya ile Buluşma, Uygurca İptidai Bir Dram | Şinasi TEKİN | Sevinç Matbaası | Ankara, TÜRKİYE | 1976 |"
+[UÜH]: # "Uygurca Üç Hikaye, Uıgurıca IV - B, C, D | F.W.K. MÜLLER, A. von Gabain | Çeviren: S. HİMRAN | İstanbul, TÜRKİYE | 1946 |"
+[Üİ]: # "Üç İtigsizler, Giriş-metin-Tercüme, Notlar-İndeks, XXX Levha | F. Sema BARUTÇU ÖZÖNDER | TDK Yayınları | Ankara, TÜRKİYE | 1998 |"
+[ÜLT]: # "Üss-i Lisân-ı Türkî | Mehmet SADIK | Hazırlayan: Prof. Dr. Recep TOPARLI, Ali ILGIN | TDK Yayınları | Ankara, TÜRKİYE | 2006 |" 
+[YZ]: # "Yusuf u Züleyha | Şeyyad HAMZA | Dehri DİLÇİN | TDK Yayınları | Ankara, TÜRKİYE | 1946 |"
 
 
 [Eski Türkçe]: <#>
