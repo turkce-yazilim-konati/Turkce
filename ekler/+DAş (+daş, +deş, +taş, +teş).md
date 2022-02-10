@@ -60,41 +60,41 @@ Genellikle ortaklık, beraberlik, benzerlik ve eşitlik anlamını taşıyan adl
 
 [AL]: # "Abuşka Lugâti veya Çağatay Sözlüğü | Besim ATALAY | Yayımlayan: Süleyman TONGUZALP | Ayyıldız Matbaası | Ankara, TÜRKİYE | 1970 |"
 [AH]: # "Atabetü'ül-Hakayık | Reşit Rahmeti ARAT | TDK Yayınları | Ankara, TÜRKİYE | 2006 |"
-[BT I-III-V-XX]: # "Berliner Turfantexte; Hazai, George, Peter Zieme, Fragmente der Uigurischen Version des ''Jin 'gain mit den Meister Fu, (Berliner Turfantexte I), Akademie - Verlag Berlin 1971; Zieme Peter, Vimalakırtinirdesasutra (Berliner Turfantexte XX), Belgium, 2000."
+[BT I-III-V-XX]: # "Berliner Turfantexte; Hazai, George, Peter Zieme, Fragmente der Uigurischen Version des ''Jin 'gain mit den Meister Fu, (Berliner Turfantexte I), Akademie - Verlag Berlin 1971; Zieme Peter, Vimalakırtinirdesasutra (Berliner Turfantexte XX) | Belgium | 2000 |"
 [CC]: # "Kuman Lehçesi Sözlüğü Codex Cumanicus'un Türkçe Sözlük Dizini | Grönbech | Çeviren: Kemal AYTAÇ | Kültür Bakanlığı Yayınları | Ankara, TÜRKİYE | 1992 |"
 [Clauson 1972]: # "An Etymological Dictionary of Pre-Thirteenth Century Turkish | Sir Gerard CLAUSON | 1972 |"
 [Clauson 1973-1974]: # "Gülensoy 1973-1974"
-[ÇBH]: #
-[DK]: #
-[DLT]: # "Dîvânı Lugât'it-Türk"
-[DTO]: #
-[EATE]: #
-[ED]: #
-[EK]: #
+[ÇBH]: # "Çaştani Bey Hikâyesi | F.W.K. Müller, A. von Gabain | Çeviren: S. HİMRAN | İstanbul, TÜRKİYE | 1945 |"
+[DK]: # "Dede Korkut Kitabı | Bekir Sami ÖZSOY | Akçağ Yayınları | Ankara, TÜRKİYE | 2006 |"
+[DLT]: # "Dîvânı Lugât'it-Türk Dizini, Endeks, Cilt IV | Çeviren: Besim Atalay | TDK Yayınları | Ankara, TÜRKİYE | 1999 |"
+[DTO]: # "Dictionnaire Turk-Oriental, Des Ouvrages De Baber, D'aboul-Gâzi Et De Mir-Ali-Chir-Nevâi | Par M. Pavet De Courteille | A L'imprimerie Impreiale | Paris | 1870 |"
+[EATE]: # "Eski Anadolu Türkçesinde Ekler | Gürer GÜLSEVİN | TDK Yayınları | Ankara, TÜRKİYE | 2007 |"
+[ED]: # "Ed-Dürettü'l -Mudiyye Fi'l-Lügati't-Türkiyye | Recep TOPARLI | TDK Yayınları | Ankara, TÜRKİYE | 2003 |"
+[EK]: # "El-Kavaninü'l-Külliye Li-Zapti'l-Lügati't-Türkiye | Recep TOPARLI, Sadi Çögenli, Nevzat H. YANIK | TDK Yayınları | Ankara, TÜRKİYE | 1999 |"
 [ETG]: # "Eski Türkçenin Grameri | Annemarie von Gabain | Çeviren: Mehmet AKALIN | TDK Yayınları | Ankara, TÜRKİYE | 2000 |"
-[ETŞ]: #
-[ETT]: #
-[ETY]: #
+[ETŞ]: # "İslam Öncesi Türk Şiiri, Türk Dili, Eski Türk Şiiri Özel Sayısı, Cilt LI, S. 409, s.3-42 | Talat TEKİN | TDK Yayınları | 1986 |"
+[ETT]: # "Eski Türkiye Türkçesi | Faruk Kadri TİMURTAŞ | Enderun Kitabevi | İstanbul, TÜRKİYE | 1987 |"
+[ETY]: # "Eski Türk Yazıtları | Hüseyin Namık ORKUN | TDK Yayınları | Ankara, TÜRKİYE | 1987 |"
 [EUTS]: # "Eski Uygur Türkçesi Sözlüğü | Ahmet CAFEROĞLU | 3. Baskı | Enderun Kitabevi | İstanbul, TÜRKİYE | 1993 |" 
 [EUTSV]: # "Eski Uygur Türkçesi Söz Varlığı | İsmail DOĞAN, Zerrin USTA | Altınpost Yayınları | Ankara, TÜRKİYE | 2014 |"
-[G]: #
-[GT]: #
+[G]: # "Garib-nâme - Âşık Paşa, I/I-1/2 | Kemal YAVUZ | TDK Yayınları | İstanbul, TÜRKİYE | 2000 |"
+[GT]: # "Gülistan Tercümesi | Seyf-i SARAYİ | Hazırlayan: Doc. Dr. Ali Fehmi KARAMANLIĞLI | TDK Yayınları | Ankara, TÜRKİYE | 1989 |"
 [Gülensoy 2007a]: #
-[H]: #
-[HŞ]: #
-[HTG]: #
-[IB]: #
-[İKP]: #
-[İML]: #
-[İMS]: #
-[KB]: #
-[KE]: #
-[KİP]: #
-[KTG]: #
-[KM]: #
-[KÖUKY]: #
-[KT]: #
-[KTS]: #
+[H]: # "Huastuanift, von le Coq'un İngilizce Tercümesinden | Çeviren: S. İmran | Ankara, TÜRKİYE | 1941 |"
+[HŞ]: # "Kutb'un Husrev ü Şirin'i ve Dil Hususiyetleri | Necmettin HACIEMİNOĞLU | TDK Yayınları | Ankara, TÜRKİYE | 2000 |"
+[HTG]: # "Harezm Türkçesi ve Grameri | Necmettin HACIEMİNOĞLU | İstanbul Üniversitesi Edebiyat Fakültesi Yayınları | Ankara, TÜRKİYE | 1997 |"
+[IB]: # "Irk Bitig Eski Uygurca Fal Kitabı | Talat TEKİN | Öncü Kitap | Ankara, TÜRKİYE | 2004 |"
+[İKP]: # "İyi ve Kötü Prens Öyküsü | James Russell Hamilton | Çeviren: Vedat KÖKEN | TDK Yayınları | Ankara, TÜRKİYE | 1998 |"
+[İML]: # "İbni Mühenna Lûgati | Aptullah BATTAL | TDK Yayınları | Ankara, TÜRKİYE | 1997 |"
+[İMS]: # "İrşâdü'l-Mülûk Ve's-Selātin | Recep TOPARLI | TDK Yayınları | Ankara, TÜRKİYE | 1992 |"
+[KB]: # "Kutadgu Bilig, Cilt I | Reşit Rahmeti ARAT | TDK Yayınları | Ankara, TÜRKİYE | 1999 |"
+[KE]: # "Kısasü'l-Enbiya, Nasırü'd-Din Bin Burhanü'd-Din Rabguzi, II, Dizin | Aysun ATA | TDK Yayınları | Ankara, TÜRKİYE | 1997 |"
+[KİP]: # "Kuanşi İm Pusar, Uygurca Metinler I | Şinasi TEKİN | TDK YAyınları | Ankara, TÜRKİYE | 1993 |"
+[KTG]: # "Kıpçak Türkçesi Grameri | Ali Fehmi KARAMANLIOĞLU | TDK Yayınları | Ankara, TÜRKİYE | 1994 |"
+[KM]: # "Kitâb-ı Mecmû-ı Tercümân-ı Türkî ve Acemî ve Mugalî | Recep TOPARLI, Sadi ÇÖGENLİ, Nevzat H. YANIK | TDK Yayınları | Ankara, TÜRKİYE | 2000 |"
+[KÖUKY]: # "Köktürk ve Ötüken Uygur Kağanlığı Yazıtları | Hatice Şirin User | Kömen Yayınları | Konya, TÜRKİYE | 2009 |"
+[KT]: # "XV. Yüzyıl Başlarında Yapılmış Kur'an Tercümesi, Cilt I | Muhammed Bin Hamza | Hazırlayan: Ahmet TOPALOĞLU | Millî Eğitim Basımevi | İstanbul, TÜRKİYE | 1976 |"
+[KTS]: # "Kıpçak Türkçesi Sözlüğü | Recep TOPARLI, Hanifi VURAL, Recep KARAATLI | TDK Yayınları | Ankara, TÜRKİYE | 2007 |"
 [KY]: # "Erzurumlu Mustafa Darîr, Kıssa-i Yusuf (Yusuf u Züleyhâ) | Leyla KARAHAN | Gazi Üniversitesi, Sosyal Bilimler Enstitüsü, Türk Dili ve Edebiyatı Bölümü, Doktora Tezi | Ankara, TÜRKİYE | 1985 |"
 [LÇ]: # "Lugat-i Çağatay ve Türki-i Osmani, Şeyh Süleyman Efendi-i Buhârî, Cild-i Evvel | İstanbul | 1298 |"
 [M]: # "Maytrısimit, Burkancıların Mehdîsi Maitreya ile Buluşma Uygurca İptidaî Bir Dram, Uygurca Metinler II. | Şinasi TEKİN | Atatürk Üniversitesi Yayınları | Sevinç Matbaası | Ankara, TÜRKİYE | 1976 |"
