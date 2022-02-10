@@ -95,22 +95,22 @@ Genellikle ortaklık, beraberlik, benzerlik ve eşitlik anlamını taşıyan adl
 [KÖUKY]: #
 [KT]: #
 [KTS]: #
-[KY]: #
-[LÇ]: #
+[KY]: # "Erzurumlu Mustafa Darîr, Kıssa-i Yusuf (Yusuf u Züleyhâ) | Leyla KARAHAN | Gazi Üniversitesi, Sosyal Bilimler Enstitüsü, Türk Dili ve Edebiyatı Bölümü, Doktora Tezi | Ankara, TÜRKİYE | 1985 |"
+[LÇ]: # "Lugat-i Çağatay ve Türki-i Osmani, Şeyh Süleyman Efendi-i Buhârî, Cild-i Evvel | İstanbul | 1298 |"
 [M]: # "Maytrısimit, Burkancıların Mehdîsi Maitreya ile Buluşma Uygurca İptidaî Bir Dram, Uygurca Metinler II. | Şinasi TEKİN | Atatürk Üniversitesi Yayınları | Sevinç Matbaası | Ankara, TÜRKİYE | 1976 |"
-[ME]: #
-[ML]: #
-[MM]: #
-[MN]: #
-[MŞ]: #
-[MT]: #
-[NF]: #
-[OKD]: #
-[OKTS]: #
-[OT]: #
-[OTG]: #
-[OY]: #
-[OYSD]: #
+[ME]: # "Mukaddimetü'l-Edeb, Harezm Türkçesi ile Tercümeli Şuşter Nüshası | Nuri YÜCE | TDK Yayınları | Ankara, TÜRKİYE | 1993 |"
+[ML]: # "Muhâkemetü'l-Lugateyn, İki Dilin Muhakemesi, Alî Şîr Nevâyî | Hazırlayan: F. Sema BARUTÇU ÖZÖNDER | TDK Yayınları | Ankara, TÜRKİYE | 1996 |"
+[MM]: # "Mu'înü'l-Mürîd | Recep TOPARLI, Mustafa ARGUNŞAH | TDK Yayınları | Ankara, TÜRKİYE | 1996 |"
+[MN]: # "Mecmū'atü'n-Nezā'ir-Metin, Dizin, Tıpkıbasım, Ömer bin Mezîd | Mustafa CANPOLAT | TDK Yayınları | Ankara, TÜRKİYE | 1995 |"
+[MŞ]: # "Müntahâb-ı Şifâ I Giriş-Metin, Celâlüddin Hızır (Hacı Paşa) | Zafer ÖNLER | TDK Yayınları | Ankara, TÜRKİYE | 1990 |"
+[MT]: # "Marzubān-nāme Tercümesi, İnceleme, Metin, Sözlük, Tıpkıbasım | Zeynep KORKMAZ | Sadru'd-din ŞEYHOĞLU | Ankara Üniversitesi Dil ve Tarih-Coğrafya Fakültesi Yayınları | Ankara, TÜRKİYE | 1973 |"
+[NF]: # "Nehcü'l-Feradis, III, Dizin-Sözlük | Aysu ATA | TDK Yayınları | Ankara, TÜRKİYE | 1973 |"
+[OKD]: # "Oğuz Kağan Destanı | Millî Eğitim Basımevi | İstanbul, TÜRKİYE | 1970 |"
+[OKTS]: # "Orta Asya'da Bulunmuş Kur'an Tefsirinin Söz Varlığı XII-XII. Yüzyıllar | A. K. Borovkov | Çeviren: Halil İbrahim USTA, Ebülfez AMANOĞLU | TDK Yayınları | Ankara, TÜRKİYE | 2002 |"
+[OT]: # "Orta Türkçe, Karahanlı, Harezm, Kıpçak ve Eski Anadolu Türkçesi | Burhan PAÇACIOĞLU | Sivas, TÜRKİYE | 1998 |"
+[OTG]: # "Orhon Türkçesi Grameri | Talat TEKİN | Ankara, TÜRKİYE | 2000 |"
+[OY]: # "Orhon Yazıtları, Kültigin, Bilge Kağan, Tonyukuk | Talat TEKİN | İstanbul, TÜRKİYE | 2003 || Orhun Abideleri | Muharrem ERGİN | Boğaziçi Yayınları | İstanbul, TÜRKİYE | 2004 |"
+[OYSD]: # "Orhun Yazıtlarının Söz Dizimi | Cengiz ALYILMAZ | Erzurum, TÜRKİYE | 1994 |"
 [S]: # "Sanglax, A Persian Guide to the Turkish Language by Muhammad Mahdi Xan, Facsimile Text, with an Introduction and Indices | Sir Gerard Clauson | London | 1960 |"
 [SN]: # "Süheyl ü Nev-Bahar (İnceleme-Metin-Sözlük) | Cem DİLÇİN | TDK Yayınları | Ankara, TÜRKİYE | 1991 |"
 [ŞSL]: # "Şeyh Süleyman Efendi-i Buhari Lugât-i Çağatay ve Türkî-i Osmanî (Cildi Evvel) | Durgut HÜSEYİN | Trakya Ünivversitesi Sosyal Bilimler Enstitüsü Türk Dili ve Edebiyatı Anabilim Dalı Yüksek Lisans Tezi | Edirne, TÜRKİYE | 1995 |"
