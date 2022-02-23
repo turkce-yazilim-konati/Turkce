@@ -1,6 +1,13 @@
 # +DAş (+daş, +deş, +taş, +teş)
 
-Genellikle ortaklık, beraberlik, benzerlik ve eşitlik anlamını taşıyan adlar yapar. Birkaç sözcükte ünlü uyumuna uymadığı görülür.
+Genellikle ortaklık, birliktelik, benzerlik, denklik ve eşitlik anlamını taşıyan adlar yapar. Birkaç sözcükte ünlü uyumuna uymadığı görülür. Son çağlarda işlekliği artmış bir ektir. 
+
+Ekin ortaya çıkışı ile ilgili görüşlerden biri bulunma durumu bildiren +DA ekine "eş" sözcüğü gelmesidir. "adaş" sözcüğünden hece bölünmesi ile ortaya çıkan parçanın ek sanılmasıdır. ad + aş/eş > a+daş > +DAş
+
+Ekin ortaya çıkışı ile ilgili görüşlerden biri addan eylem yapma yapım eki olan +DA- yapım ekidir. +DA- yapım ekinde gelen eylemden ad yapan -ş yapım eki bizi +DAş ekine ulaştırmaktadır.
+
+Bk: [TTASY], [TTLİİYE]
+
 
 ## Çağları
 
@@ -117,6 +124,8 @@ Genellikle ortaklık, beraberlik, benzerlik ve eşitlik anlamını taşıyan adl
 [TaİKT]: # "Şirvanlı Mahmud Târih-i İbn-i Kesir Tercümesi (Giriş-İnceleme-Metin-Sözlük) | Muhammet YELTEN | TDK Yayınları | Ankara, TÜRKİYE | 1998 |" 
 [TİKT]: # "Türkçe İlk Kur'an Tercümesi (Ryland Nüshası), Karahanlı Türkçesi (Giriş-Metin-Notlar-Dizin) | Aysu ATA | TDK Yayınları | Ankara, TÜRKİYE | 2004 |"
 [TS]: # "Tarama Sözlüğü, C.I-VIII | TDK Yayınları | Ankara, TÜRKİYE | 1995-1996 |"
+[TTASY]: # "Türkiye Türkçesi Ağızlarında Söz Yapımı - Doktora Tezi | Danışman: Prof. Dr. Ahat ÜSTÜNER | Hazırlayan: Ferdi GÜZEL | T.C. FIRAT ÜNİVERSİTESİ SOSYAL BİLİMLER ENSTİTÜSÜ TÜRK DİLİ VE EDEBİYATI ANA BİLİM DALI ESKİ TÜRK DİLİ BİLİM DALI | Türkiye Elazığ | 2015 |"
+[TTLİİYE]: # "Tarihî Türk Lehçelerinde İsimden İsim Yapma Ekleri | Doç. Dr. Selim KÜÇÜK | Gözden Geçirilmiş 2. Baskı | Akçağ Yayınları | Ankara, TÜRKİYE | 2015 |" 
 [UAY]: # "Uygurca Altun Yaruk | Ceval KAYA | TDK Yayınları | Ankara, TÜRKİYE | 1994 |"
 [UM]: # "Uygurca Metinler II, Maytrısimit, Burkancıların Mehdîsi Maitreya ile Buluşma, Uygurca İptidai Bir Dram | Şinasi TEKİN | Sevinç Matbaası | Ankara, TÜRKİYE | 1976 |"
 [UÜH]: # "Uygurca Üç Hikaye, Uıgurıca IV - B, C, D | F.W.K. MÜLLER, A. von Gabain | Çeviren: S. HİMRAN | İstanbul, TÜRKİYE | 1946 |"
