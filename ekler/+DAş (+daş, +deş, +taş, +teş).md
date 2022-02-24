@@ -2,9 +2,11 @@
 
 Genellikle ortaklık, birliktelik, benzerlik, denklik ve eşitlik anlamını taşıyan adlar yapar. Birkaç sözcükte ünlü uyumuna uymadığı görülür. Son çağlarda işlekliği artmış bir ektir. 
 
-Ekin ortaya çıkışı ile ilgili görüşlerden biri bulunma durumu bildiren +DA ekine "eş" sözcüğü gelmesidir. "adaş" sözcüğünden hece bölünmesi ile ortaya çıkan parçanın ek sanılmasıdır. ad + aş/eş > a+daş > +DAş
+## +DAş Ekinin Doğuşu
 
-Ekin ortaya çıkışı ile ilgili görüşlerden biri addan eylem yapma yapım eki olan +DA- yapım ekidir. +DA- yapım ekinde gelen eylemden ad yapan -ş yapım eki bizi +DAş ekine ulaştırmaktadır.
+Ekin doğuşu ile ilgili görüşlerden biri bulunma durumu bildiren +DA ekine "eş" sözcüğü gelmesidir. "adaş" sözcüğünden hece bölünmesi ile ortaya çıkan parçanın ek sanılmasıdır. ad + aş/eş > a+daş > +DAş
+
+Ekin doğuşu ile ilgili görüşlerden biri addan eylem yapma yapım eki olan +DA- yapım ekidir. +DA- yapım ekinde gelen eylemden ad yapan -ş yapım eki bizi +DAş ekine ulaştırmaktadır.
 
 Bk: [TTASY], [TTLİİYE]
 
