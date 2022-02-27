@@ -1,6 +1,6 @@
 # +DAş (+daş, +deş, +taş, +teş)
 
-Genellikle ortaklık, birliktelik, benzerlik, denklik ve eşitlik anlamını taşıyan adlar yapar. Birkaç sözcükte ünlü uyumuna uymadığı görülür. Son çağlarda işlekliği artmış bir ektir. 
+Addan ad yapan bir sözcük yapım ekidir. Genellikle ortaklık, birliktelik, benzerlik, denklik ve eşitlik anlamını taşıyan adlar yapar. Birkaç sözcükte ünlü uyumuna uymadığı görülür. Son çağlarda işlekliği artmış bir ektir. 
 
 ## +DAş Ekinin Doğuşu
 
