@@ -23,6 +23,27 @@ Bk: [TTASY], [TTLİİYE]
 ## Eski Türkçe
 +DAş eki, akrabalık ve ortaklık bildiren somut ve soyut anlamlı adlar yapar. **adaş kadaş** gibi ikileme olarak tanımlanabilecek sözler ile karşılaşırız. **Körkdeş** örneğinde +DAş eki durum bildirir.
 
+**📕 adaş:** 
+* 🔵 adaş, arkadaş, dost, eş  
+**🌱 Kök:** ad;
+**👅 Dil:** Eski Uygur Türkçesi;
+**🌱 Köken:** Türkçe;  
+**📚 Kaynaklar:** [Clauson 1972], [EUTSV]  
+
+---
+
+**📕 kadaş:** 
+* 🔵 erkek kardeş, arkadaş, akraba  
+**🌱 Kök:** ka;
+**👅 Dil:** Eski Uygur Türkçesi;
+**🌱 Köken:** Türkçe;  
+**📚 Kaynaklar:** [Clauson 1972], [ETG]  
+
+---
+
+
+
+
 | Sözcük | Anlam | Kök | Dil | Kaynak |
 |--------|-------|-----|-----|--------|
 | **adaş** | adaş, arkadaş, dost, eş | ad | [Eski Uygur Türkçesi] | [Clauson 1972] [^clauson-72]<br>[EUTSV] [^eutsv] |
