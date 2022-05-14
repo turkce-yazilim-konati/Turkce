@@ -21,7 +21,7 @@ Bk: [TTASY], [TTLİİYE]
 
 
 ## Eski Türkçe
-+DAş eki, akrabalık ve ortaklık bildiren somut ve soyut anlamlı adlar yapar. **adaş kadaş** gibi ikileme olarak tanımlanabilecek sözler ile karşılaşırız. **Körkdeş** örneğinde +DAş eki durum bildirir.
+**+DAş eki**, akrabalık ve ortaklık bildiren somut ve soyut anlamlı adlar yapar. **adaş kadaş** gibi ikileme olarak tanımlanabilecek sözler ile karşılaşırız. **Körkdeş** örneğinde +DAş eki durum bildirir.
 
 | Sözcük | Anlam | Kök | Dil | Kaynak |
 |--------|-------|-----|-----|--------|
