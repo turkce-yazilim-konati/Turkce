@@ -23,9 +23,29 @@ Bk: [TTASY], [TTLİİYE]
 ## Eski Türkçe
 **+DAş eki**, akrabalık ve ortaklık bildiren somut ve soyut anlamlı adlar yapar. **adaş kadaş** gibi ikileme olarak tanımlanabilecek sözler ile karşılaşırız. **Körkdeş** örneğinde +DAş eki durum bildirir.
 
-| Sözcük | Anlam | Kök | Dil | Kaynak |
-|--------|-------|-----|-----|--------|
-| **adaş** | adaş, arkadaş, dost, eş | ad | [Eski Uygur Türkçesi] | [Clauson 1972] [^clauson-72]<br>[EUTSV] [^eutsv] |
+---
+
+**ad > +DAş > adaş:**  adaş, arkadaş, dost, eş
+* <details>
+
+    **Kök Sözcük:** ad;  
+    **Diller:** Eski Uygur Türkçesi;  
+    **Köken:** Türkçe;  
+    **Kaynaklar:** [Clauson 1972], [EUTSV]
+    </details>
+
+**ka > +DAş > kadaş:** erkek kardeş, arkadaş, akraba  
+* <details> 
+
+    **Kök Sözcük:** ka;  
+    **Diller:** Eski Uygur Türkçesi;  
+    **Köken:** Türkçe;  
+    **Kaynaklar:** [Clauson 1972], [ETG]  
+    </details>
+
+| Sözcük | Anlamı | Kökü+Eki | Dili | Kaynakları | Dönemleri |
+|--------|--------|----------|------|------------|-----------|
+| **adaş** | adaş, arkadaş, dost, eş, | ad | [Eski Uygur Türkçesi] | [Clauson 1972] [^clauson-72]<br>[EUTSV] [^eutsv] |
 | **kadaş** | Erkek kardeş, arkadaş, akraba | ka | [Eski Uygur Türkçesi] | [Clauson 1972] [^clauson-72]<br>[ETG] [^etg] |
 | **karındaş ~ karundaş ~ karandaş** | Erkek kardeş; genellikle ikileme şeklinde -kız karındaş- kullanılır | karın | [Eski Uygur Türkçesi] | [Clauson 1972] [^clauson-72]<br>[ETG] [^etg] |
 | **kagadaş ~ kādaş** | akraba, hısım | | [Eski Uygur Türkçesi] | [EUTS] [^euts], [M] [^m]|
