@@ -24,25 +24,24 @@ Bk: [TTASY], [TTLİİYE]
 **+DAş eki**, akrabalık ve ortaklık bildiren somut ve soyut anlamlı adlar yapar. **adaş kadaş** gibi ikileme olarak tanımlanabilecek sözler ile karşılaşırız. **Körkdeş** örneğinde +DAş eki durum bildirir.
 
 ---
-
 **ad > +DAş > adaş:**  adaş, arkadaş, dost, eş
-* <details>
-
-    **Kök Sözcük:** ad;  
-    **Diller:** Eski Uygur Türkçesi;  
-    **Köken:** Türkçe;  
-    **Kaynaklar:** [Clauson 1972], [EUTSV]
-    </details>
-
+> <details>
+>
+>    **Kök Sözcük:** ad;  
+>    **Diller:** Eski Uygur Türkçesi;  
+>    **Köken:** Türkçe;  
+>    **Kaynaklar:** [Clauson 1972], [EUTSV]
+>    </details>
+---
 **ka > +DAş > kadaş:** erkek kardeş, arkadaş, akraba  
-* <details> 
-
-    **Kök Sözcük:** ka;  
-    **Diller:** Eski Uygur Türkçesi;  
-    **Köken:** Türkçe;  
-    **Kaynaklar:** [Clauson 1972], [ETG]  
-    </details>
-
+> <details> 
+>
+>   **Kök Sözcük:** ka;  
+>   **Diller:** Eski Uygur Türkçesi;  
+>   **Köken:** Türkçe;  
+>   **Kaynaklar:** [Clauson 1972], [ETG]  
+>   </details>
+---
 | Sözcük | Anlamı | Kökü+Eki | Dili | Kaynakları | Dönemleri |
 |--------|--------|----------|------|------------|-----------|
 | **adaş** | adaş, arkadaş, dost, eş, | ad | [Eski Uygur Türkçesi] | [Clauson 1972] [^clauson-72]<br>[EUTSV] [^eutsv] |
