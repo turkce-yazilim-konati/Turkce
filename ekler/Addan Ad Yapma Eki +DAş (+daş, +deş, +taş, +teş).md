@@ -11,48 +11,13 @@ Ekin doğuşu ile ilgili görüşlerden biri addan eylem yapma yapım eki olan +
 Bk: [TTASY], [TTLİİYE]
 
 
-## Çağları
+## Yapım Ekinin Çağları
 
-- [ ] İlk Türkçe
-- [ ] Ana Türkçe 6. yy öncesi
-- [x] [Eski Türkçe] 6-12. yy
-- [x] [Orta Türkçe] 12-20. yy
 - [x] [Yeni Türkçe - Çağdaş Türkçe] 20-21. yy
-
-
-## Eski Türkçe
-**+DAş eki**, akrabalık ve ortaklık bildiren somut ve soyut anlamlı adlar yapar. **adaş kadaş** gibi ikileme olarak tanımlanabilecek sözler ile karşılaşırız. **Körkdeş** örneğinde +DAş eki durum bildirir.
-
----
-**ad > +DAş > adaş:**  adaş, arkadaş, dost, eş
-> <details>
->
->    **Kök Sözcük:** ad;  
->    **Diller:** Eski Uygur Türkçesi;  
->    **Köken:** Türkçe;  
->    **Kaynaklar:** [Clauson 1972], [EUTSV]
->    </details>
----
-**ka > +DAş > kadaş:** erkek kardeş, arkadaş, akraba  
-> <details> 
->
->   **Kök Sözcük:** ka;  
->   **Diller:** Eski Uygur Türkçesi;  
->   **Köken:** Türkçe;  
->   **Kaynaklar:** [Clauson 1972], [ETG]  
->   </details>
----
-| Sözcük | Anlamı | Kökü+Eki | Dili | Kaynakları | Dönemleri |
-|--------|--------|----------|------|------------|-----------|
-| **adaş** | adaş, arkadaş, dost, eş, | ad | [Eski Uygur Türkçesi] | [Clauson 1972] [^clauson-72]<br>[EUTSV] [^eutsv] |
-| **kadaş** | Erkek kardeş, arkadaş, akraba | ka | [Eski Uygur Türkçesi] | [Clauson 1972] [^clauson-72]<br>[ETG] [^etg] |
-| **karındaş ~ karundaş ~ karandaş** | Erkek kardeş; genellikle ikileme şeklinde -kız karındaş- kullanılır | karın | [Eski Uygur Türkçesi] | [Clauson 1972] [^clauson-72]<br>[ETG] [^etg] |
-| **kagadaş ~ kādaş** | akraba, hısım | | [Eski Uygur Türkçesi] | [EUTS] [^euts], [M] [^m]|
-| **kagdaş** | akraba | | [Eski Türkçe] | [ETG] [^etg] |
-| **katas** | arkadaş, akraba | | [Eski Uygur Türkçesi] | [EUTS] [^euts] |
-| **ugdaş** | aynı boydan, aynı kabileden | **ug**  = boy, kabile, grup | [Eski Türkçe] | [Gülensoy 1973-1974] [^gulensoy-73-74] |
-| **adaş kadaş** | arkadaş, dost, ahbab, soy sop | ad, ka | [Eski Uygur Türkçesi] | [EUTS] [^euts] |
-| **körkdeş** | donda, güzellikte, endamda eş | körk | [Eski Türkçe] | [Clauson 1972] [^clauson-72] |
+- [x] [Orta Türkçe] 12-20. yy
+- [x] [Eski Türkçe] 6-12. yy
+- [ ] Ana Türkçe 6. yy öncesi
+- [ ] İlk Türkçe
 
 ## Orta Türkçe
 
@@ -71,6 +36,41 @@ Bk: [TTASY], [TTLİİYE]
 | **tudaş~tüdeş** | eş, birbirine benzeyen, aynı renkte olan, saçları aynı renkte olan; tüdeş neŋ, bu at ne tülüg | | [Karahanlı Türkçesi] | [Clauson 1972] [^clauson-72]<br>[KB] [^kb] |
 | **yaşdaş** | yaşıt, aynı yaşta olan | | [Karahanlı Türkçesi] | [TİKT] [^tikt] |
 
+## Eski Türkçe
+**+DAş eki**, akrabalık ve ortaklık bildiren somut ve soyut anlamlı adlar yapar. **adaş kadaş** gibi ikileme olarak tanımlanabilecek sözler ile karşılaşırız. **Körkdeş** örneğinde +DAş eki durum bildirir.
+
+---
+**adaş:**  adaş, arkadaş, dost, eş
+> <details>
+>
+>    **Kök Sözcük:** ad  
+>    **Yapım Eki:** +DAş  
+>    **Diller:** Eski Uygur Türkçesi  
+>    **Köken:** Türkçe  
+>    **Kaynaklar:** [Clauson 1972], [EUTSV]
+>    </details>
+---
+**ka > +DAş > kadaş:** erkek kardeş, arkadaş, akraba  
+> <details> 
+>
+>   **Kök Sözcük:** ka  
+>   **Yapım Eki:** +DAş  
+>   **Diller:** Eski Uygur Türkçesi  
+>   **Köken:** Türkçe  
+>   **Kaynaklar:** [Clauson 1972], [ETG]  
+>   </details>
+---
+| Sözcük | Anlamı | Kökü+Eki | Dili | Kaynakları | Dönemleri |
+|--------|--------|----------|------|------------|-----------|
+| **adaş** | adaş, arkadaş, dost, eş, | ad | [Eski Uygur Türkçesi] | [Clauson 1972] [^clauson-72]<br>[EUTSV] [^eutsv] |
+| **kadaş** | Erkek kardeş, arkadaş, akraba | ka | [Eski Uygur Türkçesi] | [Clauson 1972] [^clauson-72]<br>[ETG] [^etg] |
+| **karındaş ~ karundaş ~ karandaş** | Erkek kardeş; genellikle ikileme şeklinde -kız karındaş- kullanılır | karın | [Eski Uygur Türkçesi] | [Clauson 1972] [^clauson-72]<br>[ETG] [^etg] |
+| **kagadaş ~ kādaş** | akraba, hısım | | [Eski Uygur Türkçesi] | [EUTS] [^euts], [M] [^m]|
+| **kagdaş** | akraba | | [Eski Türkçe] | [ETG] [^etg] |
+| **katas** | arkadaş, akraba | | [Eski Uygur Türkçesi] | [EUTS] [^euts] |
+| **ugdaş** | aynı boydan, aynı kabileden | **ug**  = boy, kabile, grup | [Eski Türkçe] | [Gülensoy 1973-1974] [^gulensoy-73-74] |
+| **adaş kadaş** | arkadaş, dost, ahbab, soy sop | ad, ka | [Eski Uygur Türkçesi] | [EUTS] [^euts] |
+| **körkdeş** | donda, güzellikte, endamda eş | körk | [Eski Türkçe] | [Clauson 1972] [^clauson-72] |
 
 [^clauson-72]:
     Clauson 1972: An Etymological Dictionary of Pre-Thirteenth Century Turkish | Sir Gerard CLAUSON | 1972 |
