@@ -45,33 +45,93 @@ Bk: [TTASY], [TTLİİYE]
 >
 >    **Kök Sözcük:** ad  
 >    **Yapım Eki:** +DAş  
->    **Diller:** Eski Uygur Türkçesi  
+>    **Diller:** [Eski Uygur Türkçesi]  
 >    **Köken:** Türkçe  
 >    **Kaynaklar:** [Clauson 1972], [EUTSV]
 >    </details>
 ---
-**ka > +DAş > kadaş:** erkek kardeş, arkadaş, akraba  
+**kadaş:** erkek kardeş, arkadaş, akraba  
 > <details> 
 >
 >   **Kök Sözcük:** ka  
 >   **Yapım Eki:** +DAş  
->   **Diller:** Eski Uygur Türkçesi  
+>   **Diller:** [Eski Uygur Türkçesi]  
 >   **Köken:** Türkçe  
 >   **Kaynaklar:** [Clauson 1972], [ETG]  
 >   </details>
 ---
-| Sözcük | Anlamı | Kökü+Eki | Dili | Kaynakları | Dönemleri |
-|--------|--------|----------|------|------------|-----------|
-| **adaş** | adaş, arkadaş, dost, eş, | ad | [Eski Uygur Türkçesi] | [Clauson 1972] [^clauson-72]<br>[EUTSV] [^eutsv] |
-| **kadaş** | Erkek kardeş, arkadaş, akraba | ka | [Eski Uygur Türkçesi] | [Clauson 1972] [^clauson-72]<br>[ETG] [^etg] |
-| **karındaş ~ karundaş ~ karandaş** | Erkek kardeş; genellikle ikileme şeklinde -kız karındaş- kullanılır | karın | [Eski Uygur Türkçesi] | [Clauson 1972] [^clauson-72]<br>[ETG] [^etg] |
-| **kagadaş ~ kādaş** | akraba, hısım | | [Eski Uygur Türkçesi] | [EUTS] [^euts], [M] [^m]|
-| **kagdaş** | akraba | | [Eski Türkçe] | [ETG] [^etg] |
-| **katas** | arkadaş, akraba | | [Eski Uygur Türkçesi] | [EUTS] [^euts] |
-| **ugdaş** | aynı boydan, aynı kabileden | **ug**  = boy, kabile, grup | [Eski Türkçe] | [Gülensoy 1973-1974] [^gulensoy-73-74] |
-| **adaş kadaş** | arkadaş, dost, ahbab, soy sop | ad, ka | [Eski Uygur Türkçesi] | [EUTS] [^euts] |
-| **körkdeş** | donda, güzellikte, endamda eş | körk | [Eski Türkçe] | [Clauson 1972] [^clauson-72] |
-
+**karındaş ~ karundaş ~ karandaş:** Erkek kardeş; genellikle ikileme şeklinde -kız karındaş- kullanılır  
+> <details> 
+>
+>   **Kök Sözcük:** karın  
+>   **Yapım Eki:** +DAş  
+>   **Diller:** [Eski Uygur Türkçesi]  
+>   **Köken:** Türkçe  
+>   **Kaynaklar:** , [Clauson 1972], [ETG]  
+>   </details>
+---
+**kagadaş ~ kādaş:** akraba, hısım  
+> <details> 
+>
+>   **Kök Sözcük:** kaga, kā  
+>   **Yapım Eki:** +DAş  
+>   **Diller:** [Eski Uygur Türkçesi]  
+>   **Köken:** Türkçe  
+>   **Kaynaklar:** [EUTS], [M]  
+>   </details>
+---
+**kagdaş:** akraba  
+>   <details> 
+>
+>   **Kök Sözcük:** ...  
+>   **Yapım Eki:** +DAş  
+>   **Diller:** [Eski Türkçe]  
+>   **Köken:** Türkçe  
+>   **Kaynaklar:** [ETG]  
+>   </details>
+---
+**katas:** arkadaş, akraba  
+>   <details> 
+>
+>   **Kök Sözcük:** ka  
+>   **Yapım Eki:** +DAş  
+>   **Diller:** [Eski Uygur Türkçesi]  
+>   **Köken:** Türkçe  
+>   **Kaynaklar:** [EUTS]  
+>   </details>
+---
+**ugdaş:** aynı boydan, aynı kabileden  
+>   <details> 
+>
+>   **Kök Sözcük:** ug (boy, kabîle, grup)  
+>   **Yapım Eki:** +DAş  
+>   **Diller:** [Eski Türkçe]  
+>   **Köken:** Türkçe  
+>   **Kaynaklar:** [Gülensoy 1973-1974]  
+>   </details>
+---
+**adaş kadaş:** arkadaş, dost, ahbab, soy sop  
+>   <details> 
+>
+>   **Kök Sözcük:** ad, ka  
+>   **Yapım Eki:** +DAş  
+>   **Diller:** [Eski Uygur Türkçesi]  
+>   **Köken:** Türkçe  
+>   **Kaynaklar:** [EUTS]  
+>   </details>
+---
+**körkdeş:** donda, güzellikte, endamda eş  
+>   <details> 
+>
+>   **Kök Sözcük:** körk  
+>   **Yapım Eki:** +DAş  
+>   **Diller:** [Eski Türkçe]  
+>   **Köken:** Türkçe  
+>   **Kaynaklar:** [Clauson 1972]  
+>   </details>
+---
+  
+  
 [^clauson-72]:
     Clauson 1972: An Etymological Dictionary of Pre-Thirteenth Century Turkish | Sir Gerard CLAUSON | 1972 |
 [^etg]: 
@@ -84,7 +144,7 @@ Bk: [TTASY], [TTLİİYE]
     Gülensoy 1973-1974
 [^m]: 
     M: Maytrısimit, Burkancıların Mehdîsi Maitreya ile Buluşma Uygurca İptidaî Bir Dram, Uygurca Metinler II. | Şinasi TEKİN | Atatürk Üniversitesi Yayınları | Sevinç Matbaası | Ankara, TÜRKİYE | 1976 |  
-
+  
 
 [AL]: # "Abuşka Lugâti veya Çağatay Sözlüğü | Besim ATALAY | Yayımlayan: Süleyman TONGUZALP | Ayyıldız Matbaası | Ankara, TÜRKİYE | 1970 |"
 [AH]: # "Atabetü'ül-Hakayık | Reşit Rahmeti ARAT | TDK Yayınları | Ankara, TÜRKİYE | 2006 |"
