@@ -1,10 +1,19 @@
 # Çekim Ekleri Bet Tasarımları
 
-Eklerin eklendiği tabanı belirtmek
 
-Eklerin eklendiği tabanın niteliğini belirtmek
 
-Eklerin eklendiği tabana kattığı anlamı belirtmek
+* Ek ile ilgili ana bilgileri vermek
+* Yapım eki mi, çekim eki mi olduğunu yazmak
+* Ekin görevini yazmak
+* Ekin doğuş bilgisini yazmak
+* Ekin varlığının görüldüğü çağları yazmak
+* Çağlara göre ek bilgisi yazmak
+* Lehçelere göre ek bilgisi yazmak
+* Ek ile ilgili birkaç örnek sözcük yazmak
+* Eki taşıyan tüm sözcükleri yazmak
+* Eklerin eklendiği tabanı belirtmek
+* Eklerin eklendiği tabanın niteliğini belirtmek
+* Eklerin eklendiği tabana kattığı anlamı belirtmek
 
 
 
