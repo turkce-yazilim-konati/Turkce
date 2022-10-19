@@ -4,6 +4,11 @@
 * [Adlar](adlar.md)
 * [Eylemler](eylemler.md)
 * [Terimler](terimler.md)
+* [💻 Tasarımlar ⭐⭐⭐⭐⭐](tasarimlar/README.md)
+  * [Çekim Ekleri Bet Tasarımları](tasarimlar/cekim-ekleri-bet-tasarimlari/README.md)
+    * [+lAr\~ (1ncT)](tasarimlar/cekim-ekleri-bet-tasarimlari/+lar-1nct.md)
+    * [+lAr\~ (2ncT)](tasarimlar/cekim-ekleri-bet-tasarimlari/+lar-2nct/README.md)
+      * [+lAr\~ (2.1ncT)](tasarimlar/cekim-ekleri-bet-tasarimlari/+lar-2nct/+lar-2.1nct.md)
 
 ## 📗 ÇEKİM EKLERİ
 
@@ -18,8 +23,3 @@
 * [+(X)k+](yapim-ekleri/+-x-k+.md)
 * [-X+](yapim-ekleri/x+.md)
 * [-AlA-](yapim-ekleri/ala.md)
-* [💻 Tasarımlar ⭐⭐⭐⭐⭐](yapim-ekleri/tasarimlar/README.md)
-  * [Çekim Ekleri Bet Tasarımları](yapim-ekleri/tasarimlar/cekim-ekleri-bet-tasarimlari/README.md)
-    * [+lAr\~ (1ncT)](yapim-ekleri/tasarimlar/cekim-ekleri-bet-tasarimlari/+lar-1nct.md)
-    * [+lAr\~ (2ncT)](yapim-ekleri/tasarimlar/cekim-ekleri-bet-tasarimlari/+lar-2nct/README.md)
-      * [+lAr\~ (2.1ncT)](yapim-ekleri/tasarimlar/cekim-ekleri-bet-tasarimlari/+lar-2nct/+lar-2.1nct.md)
