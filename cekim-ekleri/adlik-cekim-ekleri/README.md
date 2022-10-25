@@ -1,0 +1,2 @@
+# Adlık Çekim Ekleri
+

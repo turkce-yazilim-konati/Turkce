@@ -1,0 +1,2 @@
+# Edimden Ad Türetme Ekleri
+

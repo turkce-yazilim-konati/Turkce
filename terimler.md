@@ -2,7 +2,17 @@
 
 Ad:
 
-Eylem:
+Ad başı:
+
+Ad ayağı:
+
+
+
+Edim:
+
+Edim başı:
+
+Edim ayağı:
 
 
 
@@ -14,7 +24,7 @@ Ek ayağı:
 
 
 
-Yapım eki:
+Türetme eki:
 
 Çekim eki:
 
