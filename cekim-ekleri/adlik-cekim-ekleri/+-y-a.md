@@ -1,4 +1,4 @@
-# -(y)A
+# +(y)A\~
 
 1. \-**a**: 1. Yer isimleri üzerinde yönelme bildiren ek: _kapı-y-**a**, Sivas-**a**_ vb.
 2. Fiil tabanları üzerinde eklendiği fiilin tekrarlanarak zarf görevinde kullanılmasını sağlayan dönüştürme veya kurucu zarf-fiil eki: _bak-**a** bak-**a**, koşa-**a** koş-**a**_ vb.
@@ -12,6 +12,14 @@
 10. Öncül ek olarak kullanıldığında kendinden sonra gelen isimleri edata dönüştüren bütünleşik ek: _-**a** doğru, -**a** karşı_ vb.&#x20;
 11. Öncül ek olarak kullanıldığında kendinden sonra gelen asıl fiilleri yardımcı fiile dönüştüren bütünleşik ek: _-**a**-kal-, -**a**-yaz-_ vb.&#x20;
 12. Kelime tabanına gelmiş bazı eklerden sonra gelerek üzerine geldiği ekle aynı görevde gereksiz kullanılan boş –işlevsiz- ek: _ayrı-ca-n-**a** -, usulca-n-**a** _ vb.
+
+
+
+## Eski Türkçede +(y)A\~ Çekim Eki
+
+1. Addan zarf türetir: Üze (yukarı, üstte)&#x20;
+2. (k) sesi ile birlikte yönelme eki olur. Ayrıca öncül ek olarak -a kadar gibi edatlar yapar: atka, taşka, tamka, çorakka, ebke, Kadırgan yışka tegi, uka, tabgaç bodunka,&#x20;
+3. Aynı ekin 1.ve 2. tekil şahıs iyelik ekinden sonraki içimi ise +A biçimindedir:Sekiz yigirmi yaşıma “18 yaşımda”, Türk’üme, bodunuma
 
 {% hint style="danger" %}
 
