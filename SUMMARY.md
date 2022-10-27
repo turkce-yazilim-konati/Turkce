@@ -1,18 +1,17 @@
 # Table of contents
 
-* [Ekler & Sözcükler](README.md)
-  * [Ek Türleri](ekler-and-soezcuekler/ek-tuerleri/README.md)
-    * [Çekim Ekleri](ekler-and-soezcuekler/ek-tuerleri/cekim-ekleri.md)
-    * [Yapım Ekleri](ekler-and-soezcuekler/ek-tuerleri/yapim-ekleri.md)
-  * [Sözcük Türkleri](ekler-and-soezcuekler/soezcuek-tuerkleri/README.md)
-    * [Ad Türleri](ekler-and-soezcuekler/soezcuek-tuerkleri/ad-tuerleri.md)
-    * [Eylem Türleri](ekler-and-soezcuekler/soezcuek-tuerkleri/eylem-tuerleri.md)
+* [Ekler](README.md)
+  * [Çekim Ekleri](ekler/cekim-ekleri.md)
+  * [Yapım Ekleri](ekler/yapim-ekleri.md)
+* [Sözcük Türleri](soezcuek-tuerleri/README.md)
+  * [Ad Türleri](soezcuek-tuerleri/ad-tuerleri.md)
+  * [Eylem Türleri](soezcuek-tuerleri/eylem-tuerleri.md)
 * [Terimler](terimler.md)
 
 ## 📗 ÇEKİM EKLERİ
 
 * [Adı Çeken Çekim Ekleri](cekim-ekleri/adi-ceken-cekim-ekleri/README.md)
-  * [+lAr\~](cekim-ekleri/adi-ceken-cekim-ekleri/+lar.md)
+  * [+lAr\~(+lar\~, +ler\~)](cekim-ekleri/adi-ceken-cekim-ekleri/+lar-+lar-+ler.md)
   * [+(y)A\~](cekim-ekleri/adi-ceken-cekim-ekleri/+-y-a.md)
 * [Eylemi Çeken Çekim Ekleri](cekim-ekleri/eylemi-ceken-cekim-ekleri.md)
 
@@ -33,5 +32,5 @@
 * [💻 Tasarımlar ⭐⭐⭐⭐⭐](is-guc-emek/tasarimlar/README.md)
   * [Çekim Ekleri Bet Tasarımları](is-guc-emek/tasarimlar/cekim-ekleri-bet-tasarimlari/README.md)
     * [+lAr\~ (1ncT)](is-guc-emek/tasarimlar/cekim-ekleri-bet-tasarimlari/+lar-1nct.md)
-    * [+lAr\~ (2ncT)](is-guc-emek/tasarimlar/cekim-ekleri-bet-tasarimlari/+lar-2nct/README.md)
-      * [+lAr\~ (2.1ncT)](is-guc-emek/tasarimlar/cekim-ekleri-bet-tasarimlari/+lar-2nct/+lar-2.1nct.md)
+    * [+lAr\~(+lar\~, +ler\~)(2ncT)](is-guc-emek/tasarimlar/cekim-ekleri-bet-tasarimlari/+lar-+lar-+ler-2nct/README.md)
+      * [+lAr\~ (2.1ncT)](is-guc-emek/tasarimlar/cekim-ekleri-bet-tasarimlari/+lar-+lar-+ler-2nct/+lar-2.1nct.md)

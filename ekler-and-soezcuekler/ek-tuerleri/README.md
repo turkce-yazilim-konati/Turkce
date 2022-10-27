@@ -1,2 +1,0 @@
-# Ek Türleri
-
