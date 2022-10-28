@@ -1,6 +1,6 @@
 # +lAr\~(+lar\~, +ler\~)
 
-a[+lAr\~](+lar-+lar-+ler.md) eki, bir [çekim eki](../../ekler/cekim-ekleri.md)dir; adlara eklenir; ünlü uyumuna göre [+lar\~](+lar-+lar-+ler.md), [+ler\~](+lar-+lar-+ler.md) olarak gelir. [Adın türüne](../../soezcuek-tuerleri/ad-tuerleri.md), adın niteliğine göre [+lAr\~](+lar-+lar-+ler.md) ekinde değişiklik görülür.
+[+lAr\~](+lar-+lar-+ler.md) eki, bir [çekim eki](../)dir; adlara eklenir; ünlü uyumuna göre [+lar\~](+lar-+lar-+ler.md), [+ler\~](+lar-+lar-+ler.md) olarak gelir. [Adın türüne](../../../soezcuek-tuerleri/ad-tuerleri.md), adın niteliğine göre [+lAr\~](+lar-+lar-+ler.md) ekinde değişiklik görülür.
 
 * Sayılabilen adlarda çoğaltma görevi görür.\
   [#sayilabilen-adlarda-+lar-eki](+lar-+lar-+ler.md#sayilabilen-adlarda-+lar-eki "mention")
@@ -34,14 +34,16 @@ a[+lAr\~](+lar-+lar-+ler.md) eki, bir [çekim eki](../../ekler/cekim-ekleri.md)d
 
 <mark style="color:red;">Görevi:</mark> sayıca çoğaltma yanında âile çevresi anlamı verme
 
-{% hint style="info" %}
-[+lAr\~](+lar-+lar-+ler.md) ekinin görevi, +gil ekinin görevi ile denktir.
-{% endhint %}
-
 | Ahmet'ler           | Ahmet'[+lAr\~](+lar-+lar-+ler.md)             | Ahmet'[-ler](+lar-+lar-+ler.md)            |
 | ------------------- | --------------------------------------------- | ------------------------------------------ |
 | Ayça Hanım'lar      | Ayça Hanım'[+lAr\~](+lar-+lar-+ler.md)        | Ayça Hanım'[-lar](+lar-+lar-+ler.md)       |
 | KÖREMEZ'lerin Tolga | KÖREMEZ'[+lAr\~](+lar-+lar-+ler.md)in\~ Tolga | KÖREMEZ'[-ler](+lar-+lar-+ler.md)-in Tolga |
+
+{% hint style="info" %}
+[+lAr\~](+lar-+lar-+ler.md) ekinin görevi, +gil ekinin görevi ile denktir.
+
+Ahmetgilin Hasan = Ahmet'lerin Hasan
+{% endhint %}
 
 ### Ardışık Ekli Adlarda [+lAr\~](+lar-+lar-+ler.md) Ekinden +lArI\~ Eki
 
@@ -65,20 +67,17 @@ a[+lAr\~](+lar-+lar-+ler.md) eki, bir [çekim eki](../../ekler/cekim-ekleri.md)d
 | Görmüşler   |                 | gör-müş[-ler](+lar-+lar-+ler.md)    |
 | Baktılar    |                 | bak-tı[-lar](+lar-+lar-+ler.md)     |
 
-1. Sayılabilir adlardan sonra eklenen [-lAr](+lar-+lar-+ler.md) eki, eklendiği adı sayı anlamı ile çoğaltır: \
-   kitap[-lar](+lar-+lar-+ler.md), ağaç[-lar](+lar-+lar-+ler.md) vb.&#x20;
-2. Sayılamayan adlardan sonra eklenen [-lAr](+lar-+lar-+ler.md) eki, eklendiği adın duygu yoğunluğunu artırır:\
-   saygı[-lar](+lar-+lar-+ler.md), acı[-lar](+lar-+lar-+ler.md) vb.
-3. Özel adlardan veya özel ad yerine kullanılan sözcük öbeklerinden sonra sayıca çoğaltma anlamı yanında "aile çevresi" anlamını da verir; bu kullanımıyla \[-gil] ekiyle eşişlevli kullanılır: Ahmet'-ler = Ahmet-gil, Ali Bey'-ler = Ali Bey-gil, Köremez'-ler-in Hasan = Köremez-gil-in Hasan vb.
-4. Ad çekiminde çokluk tamlayandan sonra tamlananı oluşturan ad tabanları üzerine 3. teklik iyelik eki ile birleşerek kalıplaşmış hâlde 3. çokluk iyelik ekini -\[-lArI]- oluşturur: ağaç-lar-ın dal-ları, o-n-lar-ın kitap-ları vb.
-5. Eylem çekiminde eylem tabanı üzerine gelen kip eklerinden sonra 3. çokluk çekiminde 3. çokluk kişi eki olarak kullanılır: gel-i-yor-lar, oku-y-acak-lar, gid-er-ler, sev-meli-ler, yaz-a-lar, gör-müş-ler, bak-tı-lar vb.
+### Türkmen Türkçesinde +lAr\~ Eki
 
+Türkmen Türkçesindeki +lAr\~ eki ile Türkiye Türkçesindeki +lAr\~ eki denktir. Yine de Türkiye Türkçesindeki +lAr\~ bir iki yanı ile ayrı düşebilir.&#x20;
 
+1. Biz, siz gibi çokluk zamirleri +lAr\~ ekini Türkiye Türkçesinde alabilir iken Türkmen Türkçesinin ağızları dışında +lAr\~ eki Türkmen Türkçesinde çokluk zamirlerine gelmez.
+2. Baylar (varlıklılar), depderler (defterler), daglar (dağlar), yılkılar (yılkılar, atlar), erenler (erenler), guşlar (kuşlar) gibi sözcükler Türkmen Türkçesinde +lAr\~ eki almış sözcüklere örnektir.
 
-{% hint style="success" %}
-Türkmen Türkçesinde Türkiye Türkçesi ile aynıdır; ancak, Türkiye Türkçesinde çokluk zamirlerine getirilebilen (biz-ler, siz-ler) bu ek, Türkmen Türkçesinde -ağızlar hariç- kullanılmamaktadır: baylar (zenginler), depderler (defterler), daglar (dağlar), yılkılar (atlar), erenler (erenler), guşlar (kuşlar) vb.
+### Özbek Türkçesinde +lAr\~ Eki
 
 Özbek Türkçesinde \[-lär]dir: åtlär (atlar), okıtuvçilär (öğretmenler), båşlär (başlar), bulär (bunlar), kollär (kollar), mållär (mallar) vb.
 
+### Kazak Türkçesinde +lAr\~ Eki
+
 Kazak Türkçesinde çokluk eki, ünlü ile ve “v” ile “y” ünsüzleriyle biten kelimelerden sonra \[-lAr] ve ünsüzlerden sonra tonlu tonsuz uyumuna bağlı olarak \[-DAr]dır: balalar (anneler), şeşeler (anneler), küyevler (damatlar), oylar (düşünceler); adamdar (adamlar), taldar (dallar), tağamdar (yemekler), qızdar (kızlar); jigitler (yiğitler), ayaqtar (ayaklar), bastar (başlar), Qazaqtar (Kazaklar), köylekter (gömlekler) vb.
-{% endhint %}
