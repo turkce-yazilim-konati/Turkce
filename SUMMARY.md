@@ -3,7 +3,7 @@
 * [Ekler](README.md)
   * [Çekim Ekleri](ekler/cekim-ekleri/README.md)
     * [Adlık Çekim Ekleri](ekler/cekim-ekleri/adlik-cekim-ekleri/README.md)
-      * [⨤lAr⨤(+lAr+, +lAr\~, \~lAr\~, \~lAr+)](ekler/cekim-ekleri/adlik-cekim-ekleri/lar-+lar+-+lar-lar-lar+.md)
+      * [⨤lAr\~(+lAr\~, \~lAr\~)](ekler/cekim-ekleri/adlik-cekim-ekleri/lar-+lar-lar.md)
       * [+(y)A\~](ekler/cekim-ekleri/adlik-cekim-ekleri/+-y-a.md)
     * [Eylemlik Çekim Ekleri](ekler/cekim-ekleri/eylemlik-cekim-ekleri.md)
   * [Yapım Ekleri](ekler/yapim-ekleri/README.md)
