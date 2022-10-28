@@ -2,24 +2,30 @@
 
 * [Ekler](README.md)
   * [Çekim Ekleri](ekler/cekim-ekleri/README.md)
-    * [Adlık Çekim Ekleri](ekler/cekim-ekleri/adlik-cekim-ekleri/README.md)
-      * [⨤lAr\~(+lAr\~, \~lAr\~)](ekler/cekim-ekleri/adlik-cekim-ekleri/lar-+lar-lar.md)
-      * [+(y)A\~](ekler/cekim-ekleri/adlik-cekim-ekleri/+-y-a.md)
+    * [Adlık Çekim Ekleri](ekler/cekim-ekleri/adlik-cekim-ekleri.md)
     * [Eylemlik Çekim Ekleri](ekler/cekim-ekleri/eylemlik-cekim-ekleri.md)
   * [Yapım Ekleri](ekler/yapim-ekleri/README.md)
     * [Addan Eylem Yapan Yapım Ekleri](ekler/yapim-ekleri/addan-eylem-yapan-yapim-ekleri.md)
-    * [Addan Ad Yapan Yapım Ekleri](ekler/yapim-ekleri/addan-ad-yapan-yapim-ekleri/README.md)
-      * [+(I)msAk+](ekler/yapim-ekleri/addan-ad-yapan-yapim-ekleri/+-i-msak+.md)
-      * [+(X)k+](ekler/yapim-ekleri/addan-ad-yapan-yapim-ekleri/+-x-k+.md)
-    * [Eylemden Ad Yapan Yapım Ekleri](ekler/yapim-ekleri/eylemden-ad-yapan-yapim-ekleri/README.md)
-      * [-X+](ekler/yapim-ekleri/eylemden-ad-yapan-yapim-ekleri/x+.md)
-    * [Eylemden Eylem Yapan Yapım Ekleri](ekler/yapim-ekleri/eylemden-eylem-yapan-yapim-ekleri/README.md)
-      * [-AlA-](ekler/yapim-ekleri/eylemden-eylem-yapan-yapim-ekleri/ala.md)
-      * [-A-](ekler/yapim-ekleri/eylemden-eylem-yapan-yapim-ekleri/a.md)
+    * [Addan Ad Yapan Yapım Ekleri](ekler/yapim-ekleri/addan-ad-yapan-yapim-ekleri.md)
+    * [Eylemden Ad Yapan Yapım Ekleri](ekler/yapim-ekleri/eylemden-ad-yapan-yapim-ekleri.md)
+    * [Eylemden Eylem Yapan Yapım Ekleri](ekler/yapim-ekleri/eylemden-eylem-yapan-yapim-ekleri.md)
 * [Sözcük Türleri](soezcuek-tuerleri/README.md)
   * [Ad Türleri](soezcuek-tuerleri/ad-tuerleri.md)
   * [Eylem Türleri](soezcuek-tuerleri/eylem-tuerleri.md)
 * [Terimler](terimler.md)
+
+## 🏗 YAPIM EKLERİ
+
+* [+(I)msAk+](yapim-ekleri/+-i-msak+.md)
+* [+(X)k+](yapim-ekleri/+-x-k+.md)
+* [-AlA-](yapim-ekleri/ala.md)
+* [-A-](yapim-ekleri/a.md)
+* [-X+](yapim-ekleri/x+.md)
+
+## 🧲 ÇEKİM EKLERİ
+
+* [⨤lAr\~(+lAr\~, \~lAr\~)](cekim-ekleri/lar-+lar-lar.md)
+* [+(y)A\~](cekim-ekleri/+-y-a.md)
 
 ## İş Güç Emek <a href="#is-guc-emek" id="is-guc-emek"></a>
 

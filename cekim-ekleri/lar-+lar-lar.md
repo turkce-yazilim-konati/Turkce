@@ -6,7 +6,7 @@ description: 'Türkçenin çokluk anlamı katma görevlisi: ⨤lAr~ eki.'
 
 [⨤lAr\~](lar-+lar-lar.md)<mark style="color:orange;">("</mark>[+lAr\~](lar-+lar-lar.md)<mark style="color:orange;">" : "</mark>[+lar\~](lar-+lar-lar.md), [+ler\~](lar-+lar-lar.md)<mark style="color:orange;">"; "</mark>[\~lAr\~](lar-+lar-lar.md)<mark style="color:orange;">" : "</mark>[\~lar\~](lar-+lar-lar.md), [\~ler\~](lar-+lar-lar.md)<mark style="color:orange;">")</mark>
 
-[⨤lAr\~](lar-+lar-lar.md) eki, bir [çekim eki](../)dir; adlara eklenir; eklendikten sonra çekim ekleri eklenebilir; ünlü uyumuna göre [lar](lar-+lar-lar.md), [ler](lar-+lar-lar.md) olur. Adın türüne, adın niteliğine göre [⨤lAr\~](lar-+lar-lar.md) ekinin görevinde değişiklik görülür.
+[⨤lAr\~](lar-+lar-lar.md) eki, bir [çekim eki](../ekler/cekim-ekleri/)dir; adlara eklenir; eklendikten sonra çekim ekleri eklenebilir; ünlü uyumuna göre [lar](lar-+lar-lar.md), [ler](lar-+lar-lar.md) olur. Adın türüne, adın niteliğine göre [⨤lAr\~](lar-+lar-lar.md) ekinin görevinde değişiklik görülür.
 
 **İŞLEKLİK: 🟩🟩🟩🟩🟩 **<mark style="color:green;">**(5/5)**</mark>
 
