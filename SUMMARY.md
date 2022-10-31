@@ -27,14 +27,6 @@
 * [⨤lAr\~(+lAr\~, \~lAr\~)](cekim-ekleri/lar-+lar-lar.md)
 * [+(y)A\~](cekim-ekleri/+-y-a.md)
 
-## İş Güç Emek <a href="#is-guc-emek" id="is-guc-emek"></a>
-
-* [💻 Tasarımlar ⭐⭐⭐⭐⭐](is-guc-emek/tasarimlar/README.md)
-  * [Çekim Ekleri Bet Tasarımları](is-guc-emek/tasarimlar/cekim-ekleri-bet-tasarimlari/README.md)
-    * [+lAr\~ (1ncT)](is-guc-emek/tasarimlar/cekim-ekleri-bet-tasarimlari/+lar-1nct.md)
-    * [+lAr\~(+lar\~, +ler\~)(2ncT)](is-guc-emek/tasarimlar/cekim-ekleri-bet-tasarimlari/+lar-+lar-+ler-2nct/README.md)
-      * [+lAr\~ (2.1ncT)](is-guc-emek/tasarimlar/cekim-ekleri-bet-tasarimlari/+lar-+lar-+ler-2nct/+lar-2.1nct.md)
-
 ***
 
 * [Github](https://github.com/orgs/turkce-yazilim-konati/projects/16)
