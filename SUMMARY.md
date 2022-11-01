@@ -29,4 +29,4 @@
 
 ***
 
-* [Github](https://github.com/orgs/turkce-yazilim-konati/projects/16)
+* [Süreçler, Görevler](https://github.com/orgs/turkce-yazilim-konati/projects/16)
