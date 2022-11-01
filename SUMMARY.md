@@ -16,11 +16,7 @@
 
 ## 🏗 YAPIM EKLERİ
 
-* [+(I)msAk+](yapim-ekleri/+-i-msak+.md)
-* [+(X)k+](yapim-ekleri/+-x-k+.md)
-* [-AlA-](yapim-ekleri/ala.md)
 * [-A-](yapim-ekleri/a.md)
-* [-X+](yapim-ekleri/x+.md)
 
 ## 🧲 ÇEKİM EKLERİ
 
